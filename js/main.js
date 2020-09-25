@@ -269,7 +269,7 @@ jQuery(document).ready(function ($) {
 	siteStellar();
 
 	var siteCountDown = function () {
-		$("#date-countdown, #date-countdown2").countdown("2020/10/31", function (
+		$("#date-countdown, #date-countdown2").countdown("2020/10/01", function (
 			event
 		) {
 			var $this = $(this).html(

@@ -1998,8 +1998,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #ee1e46;
-  border-color: #ee1e46; }
+  background-color: #0069ff;
+ }
   .btn-primary:hover {
     color: #fff;
     background-color: #d61036;
