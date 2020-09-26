@@ -1285,9 +1285,9 @@ h5,
   padding: 20px;
 }
 
-.title-section {
+/* .title-section {
   margin-bottom: 30px;
-}
+} */
 
 .title-section .heading {
   color: #fff;
@@ -1421,7 +1421,7 @@ h5,
   align-items: center;
   justify-content: center;
   flex: 1;
-  margin-top: 40px;
+  margin-top: 20px;
 }
 
 .custom-media .img {
